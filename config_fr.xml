@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<module>
+	<name>zlife</name>
+	<displayName><![CDATA[ZLife - Construct a better world]]></displayName>
+	<version><![CDATA[1.0.0]]></version>
+	<description><![CDATA[Slave Woman retailer since 1876, Zlife Module is the best choice for a better world]]></description>
+	<author><![CDATA[farang]]></author>
+	<tab><![CDATA[front_office_features]]></tab>
+	<confirmUninstall><![CDATA[Oh non mec ne fais pas ça ! Ta vie va changer ... ]]></confirmUninstall>
+	<is_configurable>1</is_configurable>
+	<need_instance>0</need_instance>
+	<limited_countries></limited_countries>
+</module>
